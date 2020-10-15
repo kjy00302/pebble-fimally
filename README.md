@@ -1,18 +1,20 @@
 # Fimally!
 
+A watchface for Pebble smartwatch.
+
 Original: [Pre-cracked egg](https://twitter.com/obviousplant_/status/1058408858572349442) by Obvious Plant
 
-![Fimally!](image_src/fimally_edited.png)
+## Screenshots
 
-## Aplite/Diorite
+### Aplite/Diorite
 
 ![Screenshot of monocolor display Pebble running "Fimally!" watchface](screenshots/screenshot_aplite.png)
 
-## Basalt
+### Basalt
 
 ![Screenshot of rectangle color display Pebble running "Fimally!" watchface](screenshots/screenshot_basalt.png)
 
-## Chalk
+### Chalk
 
 ![Screenshot of round color display Pebble running "Fimally!" watchface](screenshots/screenshot_chalk.png)
 
