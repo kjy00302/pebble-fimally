@@ -1,0 +1,43 @@
+{
+  "name": "pebble-fimally",
+  "author": "kjy00302",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app",
+    "meme",
+    "fimally"
+    ],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Fimally!",
+    "uuid": "7ba89995-c858-48b3-a95e-c41959da725a",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [],
+    "resources": {
+      "media": [
+        {
+          "type": "font",
+          "name": "FONT_ROBOTO_BOLD_30",
+          "file": "fonts/Roboto-Bold.ttf",
+          "characterRegex": "[:0-9]"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BACKGROUND",
+          "file": "images/fimally.png"
+        }
+      ]
+    }
+  }
+}
