@@ -13,7 +13,7 @@
     "displayName": "Fimally!",
     "uuid": "7ba89995-c858-48b3-a95e-c41959da725a",
     "sdkVersion": "3",
-    "enableMultiJS": true,
+    "enableMultiJS": false,
     "targetPlatforms": [
       "aplite",
       "basalt",
